@@ -64,13 +64,7 @@ Kiểm tra dòng này ở đầu mỗi file HTML: <link rel="stylesheet" href="s
 ---
 
 ## Thông tin nhóm thực hiện
-<img src="https://github.com/user-attachments/assets/24314da8-0f75-40d7-9b1e-e82d849a2f8a" width="100">
-**Tên:Đỗ Lâm Trường** <br> MSSV: 24N01211 <br>Công việc: JavaScript nâng cao
-Quản lý dữ liệu sản phẩm
-Tối ưu hiệu suất website
-<img src="https://github.com/user-attachments/assets/e6c887bc-d9a6-4a05-8332-ce719628eb99" width="100">  
-**Tên:Vũ Thái Huy** <br> MSSV:24N01214<br> Công việc:HTML,CSS, JavaScript
-Thiết kế UI/UX
-Tối ưu giao diện responsive  <br> 
-
+Ảnh chân dung,Thông tin chi tiết
+"<img src="https://github.com/user-attachments/assets/a1c1d29f-4206-44e5-b9af-b3fc8b42f823" width=""32%"">","Tên: Đỗ Lâm Trường  MSSV: 24N01211  Công việc: JavaScript nâng cao, Quản lý dữ liệu sản phẩm, Tối ưu hiệu suất website."
+"<img src="https://github.com/user-attachments/assets/9f3ed0b8-d53c-4088-b95e-879829a3e15f" width=""32%"">","Tên: Vũ Thái Huy  MSSV: 24N01214  Công việc: HTML/CSS, Thiết kế UI/UX, Tối ưu giao diện Responsive."
 *Học:Trường Trung Cấp Nghiệp Bình Dương
