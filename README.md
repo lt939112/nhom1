@@ -6,18 +6,18 @@
 ### SplashScreen - Home - ShoeDetail
 *Bạn chèn link ảnh demo 3 màn hình này vào đây*
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a62f901-0f68-4d5e-8b89-63dac8c42308"width="32%"> 
-  <img src="https://github.com/user-attachments/assets/c6ac62c9-3ede-4c7a-9fc7-52d52b6a9aa6" width="32%">
-  <img src="https://github.com/user-attachments/assets/f3935f5b-a467-47cf-abce-60eb8d27b167" width="32%">
+  <img src=""width="32%"> 
+  <img src="" width="32%">
+  <img src="" width="32%">
   <img src="" width="32%">
 </p>
 
 ### Register - Login - Login_Success
 *Bạn chèn link ảnh demo phần đăng nhập vào đây*
 <p align="center">
-  <img src="link_anh_4" width="32%">
-  <img src="link_anh_5" width="32%">
-  <img src="link_anh_6" width="32%">
+  <img src="https://github.com/user-attachments/assets/9a62f901-0f68-4d5e-8b89-63dac8c42308" width="32%">
+  <img src="https://github.com/user-attachments/assets/c6ac62c9-3ede-4c7a-9fc7-52d52b6a9aa6" width="32%">
+  <img src="https://github.com/user-attachments/assets/f3935f5b-a467-47cf-abce-60eb8d27b167" width="32%">
 </p>
 
 ---
@@ -64,14 +64,13 @@ Kiểm tra dòng này ở đầu mỗi file HTML: <link rel="stylesheet" href="s
 ---
 
 ## Thông tin nhóm thực hiện
-| Ảnh | Thông tin |
-|---|---|
-| <img src="![DoLamTruong](https://github.com/user-attachments/assets/24314da8-0f75-40d7-9b1e-e82d849a2f8a)" width="100"> | 
+<img src="https://github.com/user-attachments/assets/24314da8-0f75-40d7-9b1e-e82d849a2f8a" width="100">
 **Tên:Đỗ Lâm Trường** <br> MSSV: 24N01211 <br>Công việc: JavaScript nâng cao
 Quản lý dữ liệu sản phẩm
-Tối ưu hiệu suất website |
-| <img src="![VuThaiHuy](https://github.com/user-attachments/assets/e6c887bc-d9a6-4a05-8332-ce719628eb99)" width="100"> | **Tên:Vũ Thái Huy** <br> MSSV:24N01214<br> Công việc:HTML,CSS, JavaScript
+Tối ưu hiệu suất website
+<img src="https://github.com/user-attachments/assets/e6c887bc-d9a6-4a05-8332-ce719628eb99" width="100">  
+**Tên:Vũ Thái Huy** <br> MSSV:24N01214<br> Công việc:HTML,CSS, JavaScript
 Thiết kế UI/UX
 Tối ưu giao diện responsive  <br> 
----
-*Sử dụng React Native, Axios, MongoDB, Cloudinary*
+
+*Học:Trường Trung Cấp Nghiệp Bình Dương
