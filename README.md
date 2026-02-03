@@ -18,6 +18,7 @@
   <img src="https://github.com/user-attachments/assets/9a62f901-0f68-4d5e-8b89-63dac8c42308" width="32%">
   <img src="https://github.com/user-attachments/assets/c6ac62c9-3ede-4c7a-9fc7-52d52b6a9aa6" width="32%">
   <img src="https://github.com/user-attachments/assets/f3935f5b-a467-47cf-abce-60eb8d27b167" width="32%">
+    <img src="https://github.com/user-attachments/assets/83f3a967-a740-4a1a-8195-6487086d5d32" width="32%>
 </p>
 
 ---
@@ -64,7 +65,6 @@ Kiểm tra dòng này ở đầu mỗi file HTML: <link rel="stylesheet" href="s
 ---
 
 ## Thông tin nhóm thực hiện
-Ảnh chân dung,Thông tin chi tiết
-<img src="https://github.com/user-attachments/assets/588cc4df-28ef-4946-b26a-5685f94f619f" width="150"> | **Tên: Đỗ Lâm Trường** <br> 🆔 MSSV: 24N01211 <br> 💻 **Công việc:** JavaScript nâng cao, Quản lý dữ liệu sản phẩm, Tối ưu hiệu suất website.
-<img src="https://github.com/user-attachments/assets/096aea88-fa00-4c98-a05e-2a0a1be69683" width="150"> | **Tên: Vũ Thái Huy** <br> 🆔 MSSV: 24N01214 <br> 💻 **Công việc:** HTML/CSS, Thiết kế UI/UX, Tối ưu giao diện Responsive.
+"<img src="https://github.com/user-attachments/assets/588cc4df-28ef-4946-b26a-5685f94f619f" width="150">" ,"**Tên: Đỗ Lâm Trường** <br> 🆔 MSSV: 24N01211 <br> 💻 **Công việc:** JavaScript nâng cao, Quản lý dữ liệu sản phẩm, Tối ưu hiệu suất website."
+"<img src="https://github.com/user-attachments/assets/096aea88-fa00-4c98-a05e-2a0a1be69683" width="150">" ,"**Tên: Vũ Thái Huy** <br> 🆔 MSSV: 24N01214 <br> 💻 **Công việc:** HTML/CSS, Thiết kế UI/UX, Tối ưu giao diện Responsive."
 *Học:Trường Trung Cấp Nghiệp Bình Dương
