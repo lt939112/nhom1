@@ -59,7 +59,7 @@ Kiểm tra dòng này ở đầu mỗi file HTML: <link rel="stylesheet" href="s
   
 
 ## Link Review DEMO APP QUẢN LÝ BÁN GIÀY
-👉 [Xem video tại đây](https://youtu.be/link-cua-ban)
+👉 [Xem video tại đây)https://www.youtube.com/watch?v=tGfacVzyUzw
 
 ---
 
